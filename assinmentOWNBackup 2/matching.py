@@ -5,7 +5,6 @@ and for each files with the same name and extention in both folders -
 checks if they have the same structure (number of columns and headers name). 
 The code will return a list of matching csv files, and a list of unmatching csv files
 
-noamw@ownbackup.com
 
 1. verify the folders are under current directory, with correct path
 2. Get the content of each directory into separate list
